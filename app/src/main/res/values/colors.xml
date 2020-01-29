@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EB6E20</color>
+    <color name="colorPrimaryDark">#E25122</color>
+    <color name="colorAccent">#E64F4C</color>
+    <color name="txt_dark_gray">#58595B</color>
+    <color name="txt_footer">#BABCBE</color>
+    <color name="light_fray">#CFCFCF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="txt_gray">#919396</color>
+    <color name="btn_logout">#FAEEE8</color>
+    <color name="btn_logout_border">#FAE8D9</color>
+
+
+</resources>
